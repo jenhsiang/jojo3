@@ -1,0 +1,14 @@
+<html>
+<body>
+<title>天天學桌遊</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    
+		<p style="color:#088A85" align="center" ><font face="Algerian" size="500">GAMEBOARD WORLD</font><a href="https://www.facebook.com/%E5%A4%A9%E5%A4%A9%E5%AD%B8%E6%A1%8C%E9%81%8A-1118376901610135/"  target="_blank" ><img src="fb.png" style="width:50px;height:40px;" align="right"></a>
+		<a href="https://www.facebook.com/%E5%A4%A9%E5%A4%A9%E5%AD%B8%E6%A1%8C%E9%81%8A-1118376901610135/"  target="_blank" ><img src="in.png" style="width:50px;height:40px;" align="right"></a></p>
+		<hr WIDTH="80%">
+      <%@ include file = "/_include/menu.jsp"%>
+<body>
+</html>
